@@ -1,0 +1,20 @@
+$animsetinstance
+{
+    #template "{F0C651DE8E24A5DE}DZ/anims/workspaces/player/player_main/player_main.ast"
+    #nparents 1
+    #parent "{7324B2E80BB624A1}DZ/anims/workspaces/player/player_main/player_main_1h.asi"
+    #ikpose "DZ/anims/anm/player/ik/gear/food_can.anm"
+    $animations
+    {
+        "WeaponOperations.ErcRas.ReloadAction_Open" "{512796C9A3AEAD39}DZ/anims/anm/player/reloads/M72Law/p_erc_arm_M72_ras.anm"
+        "WeaponOperations.ErcRas.ReloadAction_Closed" "{F6C1D47F7E1B1D33}DZ/anims/anm/player/reloads/M72Law/p_erc_disarm_M72_ras.anm"
+        "WeaponOperations.ErcRas.Fire" "{4AD43399C278CCE4}DZ/anims/anm/player/reloads/IZH18/p_erc_fire_IZH18_ras.anm"
+        "WeaponOperations.ErcRas.FireCocked" "{CE7FFAC687F2D8FE}DZ/anims/anm/player/reloads/IZH18/p_erc_fire_empty_cocked_IZH18_ras.anm"
+        "WeaponOperations.ErcRas.Jamming" "{E216F2874F5CF3F5}DZ/anims/anm/player/reloads/IZH18/p_erc_jam_IZH18_ras.anm"
+        "WeaponOperations.ErcRas.Jamming Cancel" "{520FC4A5B91166D4}DZ/anims/anm/player/reloads/IZH18/p_erc_jam_cancel_IZH18_ras.anm"
+        "WeaponOperations.PneRas.Fire" "{6BD78FE493240875}DZ/anims/anm/player/reloads/IZH18/p_pne_fire_IZH18_ras.anm"
+        "WeaponOperations.PneRas.FireCocked" "{44F64BB86DED7AE7}DZ/anims/anm/player/reloads/IZH18/p_pne_fire_empty_cocked_IZH18_ras.anm"
+        "WeaponOperations.PneRas.Jamming" "{AA7F92F5ADFB46C9}DZ/anims/anm/player/reloads/IZH18/p_pne_jam_IZH18_ras.anm"
+        "WeaponOperations.PneRas.Jamming Cancel" "{E3AD93FEB72AD5C0}DZ/anims/anm/player/reloads/IZH18/p_pne_jam_cancel_IZH18_ras.anm"
+    }
+}

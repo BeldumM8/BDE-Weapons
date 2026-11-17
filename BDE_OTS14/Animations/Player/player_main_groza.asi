@@ -1,0 +1,11 @@
+$animsetinstance {
+    #template "DZ/anims/workspaces/player/player_main/player_main.ast"
+    #nparents 1
+    #parent "DZ/anims/workspaces/player/player_main/weapons/player_main_famas.asi"
+    $animations {
+        "ActionOnce.FishingRodExtendErc.Once" "BDE_OTS14/Animations/Player/BDE_Groza_Reload_Erc.anm"
+        "ActionOnce.FishingRodExtendCro.Once" "BDE_OTS14/Animations/Player/BDE_Groza_Reload_Erc.anm"
+        "ActionOnce.FishingRodRetractErc.Once" "BDE_OTS14/Animations/Player/BDE_Groza_Unload_Erc.anm"
+        "ActionOnce.FishingRodRetractCro.Once" "BDE_OTS14/Animations/Player/BDE_Groza_Unload_Erc.anm"
+    }
+}

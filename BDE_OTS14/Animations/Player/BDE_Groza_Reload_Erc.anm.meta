@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A3B836AE61D146D9}BDE_OTS14/Animations/Player/BDE_Groza_Reload_Erc.anm"
+ Author "nickspc"
+ ChangeDate -1838877422
+ Configurations {
+  TXAResourceClass PC {
+   SourceFile "BDE_Groza_Reload_Erc.txa"
+  }
+  TXAResourceClass XBOX_ONE : PC {
+  }
+  TXAResourceClass PS4 : PC {
+  }
+  TXAResourceClass LINUX : PC {
+  }
+ }
+}

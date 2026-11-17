@@ -1,0 +1,44 @@
+EffectDef
+{
+    Emitors
+    {
+        EmitorDef backblast
+        {
+            ShapeType Ellipse
+            ShapeSize 0.06 0.06 0.06
+            ConeAngle 360 0 22
+            MaxNum 180
+            BirthRate 350
+            Angles 0 0 90
+            LocalTransform 0
+            Material "Graphics/Particles/materials/smoke/smoke_fluid_2.emat"
+            SizeMultiplier 2.8
+            SizeRND 0.25
+            RandomAngle 1
+            Sort 1
+            Velocity 16
+            VelocityRND 2
+            AirResistance 1.5
+            GravityMultiply 0
+            Wind 1
+            AnimOnce 0
+            AnimFPS 30
+            LifeTime 2.3
+            LifeTimeRND 0.4
+            Color
+            {
+                0 0.18 0.18 0.17 0.6 0.3 0.3 0.28 1 0.45 0.45 0.43
+            }
+            Alpha
+            {
+                0 0.8 0.25 0.7 1 0
+            }
+            Size
+            {
+                0 0.2 0.4 0.7 1 1
+            }
+            EffectTime 0.16
+            Repeat 0
+        }
+    }
+}
